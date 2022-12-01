@@ -1,15 +1,17 @@
 
 public class Prueba {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+private int numprueba;
+private String nombreprueba;
 
-		System.out.println("hola soy la calse de prueba");
+
+     public void ejecutarPrueba() {
 		
-		
+		System.out.println("blablablba");
+		}
 		
 		
 		
 	}
 
-}
+
