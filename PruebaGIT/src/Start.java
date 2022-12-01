@@ -6,7 +6,7 @@ public class Start {
 
 		
 		System.out.println("Hola Mundo GIT");
-		
+		System.out.println("adios Mundo GIT");
 		
 		
 		
