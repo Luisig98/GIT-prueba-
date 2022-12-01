@@ -1,5 +1,5 @@
 
-public class Start {
+public class StartGIT {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
